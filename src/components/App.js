@@ -2,8 +2,6 @@
 import React from "react";
 import './../styles/App.css';
 
-import React from "react";
-
 function App() {
   const [city, setCity] = React.useState("");
   const [info, setInfo] = React.useState();
